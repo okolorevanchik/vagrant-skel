@@ -1,10 +1,9 @@
 
-Skeleton directories for using Vagrnat in your project.
+## Skeleton directories for using Vagrnat in your project.
 
-Usage:
+###Usage:
 
-vagrant up
+    vagrant up
+    vagrant ssh
 
-vagrant ssh
-
-Example for habrahabr. 
+Example for [habrahabr](http://habrahabr.ru/company/maxifier/blog/225305/)
