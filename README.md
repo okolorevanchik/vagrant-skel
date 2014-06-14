@@ -1,6 +1,5 @@
 
-## Skeleton directories for using Vagrnat in your project.
-
+## Skeleton directories for using Vagrant in your project
 ###Usage:
 
     vagrant up
